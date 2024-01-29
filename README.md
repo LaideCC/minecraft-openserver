@@ -5,35 +5,13 @@ MC一键开服器
 使用Python语言编写
 需提前安装“Requests”库才可使用
 
-#### 软件架构
-软件架构说明
+#### 使用教程
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  安装好Requests库（如已安装可略过）
+2.  下载程序压缩包
+3.  解压文件，运行main.py
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  需提前安装“Requests”库才可使用
+2.  需要安装Java！否则运行服务端文件时会报错！（推荐安装java17，兼容性较高）
